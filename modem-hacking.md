@@ -1,7 +1,7 @@
 ### Hardware Haker Meetup
 - Date: 24-09-19
 - Event: https://seattlemakers.org/events/hardware-hacking-meetup-30/
-
+- ig vid: https://www.instagram.com/p/DAIGC3FpgBm/
 
 Step 1: Find datasheet of processor
 - Googled: BCM6368 datasheet
